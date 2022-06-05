@@ -28,5 +28,5 @@
 
 Приложение откроется в браузере. После небольшой загрузки интерфейс будет готов
 
-[Демнострация]()
+[Демнострация](https://drive.google.com/file/d/1sZECX3LwPNKj_rWs5X-OfESGcKNdVK9P/view?usp=sharing)
 
