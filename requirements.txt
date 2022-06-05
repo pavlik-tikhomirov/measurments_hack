@@ -5,5 +5,5 @@ numpy==1.21
 pandas==1.4.2
 streamlit==1.10.0
 tqdm==4.59.0
-~andas==1.2.4
-~oblib==1.0.1
+andas==1.2.4
+oblib==1.0.1
