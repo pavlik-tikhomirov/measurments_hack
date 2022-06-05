@@ -1,5 +1,9 @@
 fitz==0.0.1.dev2
 joblib==1.1.0
-numpy==1.22.4
+matplotlib==3.3.4
+numpy==1.20.1
 pandas==1.4.2
-tqdm==4.64.0
+streamlit==1.10.0
+tqdm==4.59.0
+~andas==1.2.4
+~oblib==1.0.1
