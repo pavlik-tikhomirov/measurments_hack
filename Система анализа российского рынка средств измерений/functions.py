@@ -7,7 +7,7 @@ from tqdm import tqdm
 def pdf_predict(pdf_files, model, pdf_path):
     data_dict = {}
     for file in tqdm(pdf_files):
-        file_name = file.name
+        file_name = file#.name
         text=''
         
         doc = fitz.open(pdf_path+file_name)  #  ('Дата-сет для задачи №1\\Разметка\\'+file_name)
